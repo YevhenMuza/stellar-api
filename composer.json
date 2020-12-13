@@ -1,5 +1,5 @@
 {
-    "name": "YevhenMuza/stellar-api",
+    "name": "yevhenmuza/stellar-api",
     "description": "API client for the Stellar network",
     "autoload": {
         "psr-4": {
